@@ -56,3 +56,83 @@ Scelti progetti aperti. Esclusi anche Frameworks/Engines, Chat bots e Maps/Hacks
 ## Aggiornamento sera (31/10/2026)
 - Giochi da 41 a 71 (commit b9f200d): altre repo gaming con molte stelle, nomi di fantasia, screenshot veri dove possibile (script giochi3.py + costruisci_prodotti.py in claudetemp\giochi).
 - Ora Tower Defense ha 2 giochi e Mobile 4. Restano da fare: foto categorie, controllo grafico, segnaposto, PageSpeed.
+
+## Mappa giochi -> repo originale (per fork futuri)
+
+Ogni gioco del negozio ha nome di fantasia; qui il progetto vero. Fork eventuale: `gh repo fork OWNER/REPO --clone=false` (oppure `gh repo fork OWNER/REPO --org NOMEORG`). Controlla la licenza prima di pubblicare un fork modificato: la lista e' CC0/CC BY-NC-SA, i giochi hanno licenze loro.
+
+| # | Nome fantasia (IT) | Nome originale | Repo originale | Categoria | Link |
+|---|---|---|---|---|---|
+| 1 | Ipersonno Armato | Hypersomnia | `TeamHypersomnia/Hypersomnia` | azione | https://github.com/TeamHypersomnia/Hypersomnia |
+| 2 | Cubo d'Assalto | AssaultCube | `assaultcube/AC` | sparatutto | https://github.com/assaultcube/AC |
+| 3 | Pesce Saltatore | Jumpy | `fishfolk/jumpy` | platform | https://github.com/fishfolk/jumpy |
+| 4 | Pinguino Supremo | SuperTux | `SuperTux/supertux` | platform | https://github.com/SuperTux/supertux |
+| 5 | Il Re delle Potenze | 2048 | `gabrielecirulli/2048` | puzzle | https://github.com/gabrielecirulli/2048 |
+| 6 | Scacchiera Eterna | Lichess | `ornicar/lila` | puzzle | https://github.com/ornicar/lila |
+| 7 | Mahjong Infinito | Whatajong | `masylum/whatajong` | puzzle | https://github.com/masylum/whatajong |
+| 8 | Esagono Cosmico | Hextris | `Hextris/hextris` | browser | https://github.com/Hextris/hextris |
+| 9 | Fortezza dei Server | Server Survival | `pshenok/server-survival` | browser | https://github.com/pshenok/server-survival |
+| 10 | Ascesa dei Morti | Dead Ascend | `larpon/DeadAscend` | avventura | https://github.com/larpon/DeadAscend |
+| 11 | Cataclisma Oscuro | Cataclysm: Dark Days Ahead | `CleverRaven/Cataclysm-DDA` | gdr | https://github.com/CleverRaven/Cataclysm-DDA |
+| 12 | Terre di Veloria | Veloren | `veloren/veloren` | gdr | https://github.com/veloren/veloren |
+| 13 | Metropoli Futura | Citybound | `citybound/citybound` | gestionali | https://github.com/citybound/citybound |
+| 14 | Asfalto in Derapata | VDrift | `VDrift/vdrift` | corse | https://github.com/VDrift/vdrift |
+| 15 | Fisica d'Acciaio | Rigs of Rods | `RigsOfRods/rigs-of-rods` | corse | https://github.com/RigsOfRods/rigs-of-rods |
+| 16 | Cubi Classici | ClassiCube | `ClassiCube/ClassiCube` | sandbox | https://github.com/ClassiCube/ClassiCube |
+| 17 | Green dei Campioni | Open Golf | `mgerdes/Open-Golf` | sport | https://github.com/mgerdes/Open-Golf |
+| 18 | Maestro del Biliardo | Pooltool | `ekiefl/pooltool` | sport | https://github.com/ekiefl/pooltool |
+| 19 | Imperi Lontani | Widelands | `widelands/widelands` | strategia-tempo-reale | https://github.com/widelands/widelands |
+| 20 | Impero Eterno | Unciv | `yairm210/Unciv` | strategia-a-turni | https://github.com/yairm210/Unciv |
+| 21 | Abisso Redento | DevilutionX | `diasurgical/devilutionX` | classici-rinati | https://github.com/diasurgical/devilutionX |
+| 22 | Memoria Arcana | Memory Game | `sromku/memory-game` | mobile | https://github.com/sromku/memory-game |
+| 23 | Caccia agli Spettri | Chase Whisply | `tvbarthel/ChaseWhisplyProject` | mobile | https://github.com/tvbarthel/ChaseWhisplyProject |
+| 24 | Guerrieri Pixel | Teeworlds | `teeworlds/teeworlds` | azione | https://github.com/teeworlds/teeworlds |
+| 25 | Gli Invitti | Unvanquished | `Unvanquished/Unvanquished` | sparatutto | https://github.com/Unvanquished/Unvanquished |
+| 26 | Cercatore del Reame | BrowserQuest | `mozilla/BrowserQuest` | browser | https://github.com/mozilla/BrowserQuest |
+| 27 | Custode delle Vecchie Avventure | ScummVM | `scummvm/scummvm` | avventura | https://github.com/scummvm/scummvm |
+| 28 | Abissi di Pietra | Dungeon Crawl Stone Soup | `crawl/crawl` | gdr | https://github.com/crawl/crawl |
+| 29 | Imperatore dei Trasporti | OpenTTD | `OpenTTD/OpenTTD` | gestionali | https://github.com/OpenTTD/OpenTTD |
+| 30 | Gran Premio dei Pinguini | SuperTuxKart | `supertuxkart/stk-code` | corse | https://github.com/supertuxkart/stk-code |
+| 31 | Terre Cubiche | Luanti (Minetest) | `luanti-org/luanti` | sandbox | https://github.com/luanti-org/luanti |
+| 32 | Mondo dei Blocchi Vivi | Terasology | `MovingBlocks/Terasology` | sandbox | https://github.com/MovingBlocks/Terasology |
+| 33 | Fabbrica Fortezza | Mindustry | `Anuken/Mindustry` | difesa | https://github.com/Anuken/Mindustry |
+| 34 | Fronte di Ferro | OpenRA | `OpenRA/OpenRA` | strategia-tempo-reale | https://github.com/OpenRA/OpenRA |
+| 35 | Campo di Battaglia 2100 | Warzone 2100 | `Warzone2100/warzone2100` | strategia-tempo-reale | https://github.com/Warzone2100/warzone2100 |
+| 36 | Battaglia per Eldoria | Battle for Wesnoth | `wesnoth/wesnoth` | strategia-a-turni | https://github.com/wesnoth/wesnoth |
+| 37 | Mondi in Evoluzione | Freeciv | `freeciv/freeciv` | strategia-a-turni | https://github.com/freeciv/freeciv |
+| 38 | Leggenda dei Cantastorie | Stendhal | `arianne/stendhal` | online | https://github.com/arianne/stendhal |
+| 39 | Meridiano Antico | Meridian 59 | `Meridian59/Meridian59` | online | https://github.com/Meridian59/Meridian59 |
+| 40 | Inferno Classico | Chocolate Doom | `chocolate-doom/chocolate-doom` | classici-rinati | https://github.com/chocolate-doom/chocolate-doom |
+| 41 | Cronache Riaperte | OpenMW | `OpenMW/openmw` | classici-rinati | https://github.com/OpenMW/openmw |
+| 42 | Ritmo Infinito | osu! | `ppy/osu` | azione | https://github.com/ppy/osu |
+| 43 | Serpente degli Eroi | SNKRX | `a327ex/SNKRX` | azione | https://github.com/a327ex/SNKRX |
+| 44 | Rotta tra le Stelle | Endless Sky | `endless-sky/endless-sky` | avventura | https://github.com/endless-sky/endless-sky |
+| 45 | Artigiano di Cubi | Craft | `fogleman/Craft` | sandbox | https://github.com/fogleman/Craft |
+| 46 | Cubi Senza Confini | Cubyz | `PixelGuys/Cubyz` | sandbox | https://github.com/PixelGuys/Cubyz |
+| 47 | Cripta Eterna | NetHack | `NetHack/NetHack` | gdr | https://github.com/NetHack/NetHack |
+| 48 | Discesa Minimalista | Brogue CE | `tmewett/BrogueCE` | gdr | https://github.com/tmewett/BrogueCE |
+| 49 | Tana dei Draghi | Angband | `angband/angband` | gdr | https://github.com/angband/angband |
+| 50 | Ballata dei Cavalieri | Godot Open RPG | `gdquest-demos/godot-open-rpg` | gdr | https://github.com/gdquest-demos/godot-open-rpg |
+| 51 | Skyline Isometrico | IsoCity | `victorqribeiro/isocity` | gestionali | https://github.com/victorqribeiro/isocity |
+| 52 | Fondatori di Citta | Cytopia | `CytopiaTeam/Cytopia` | gestionali | https://github.com/CytopiaTeam/Cytopia |
+| 53 | Metropoli Senza Griglia | Egregoria | `Uriopass/Egregoria` | gestionali | https://github.com/Uriopass/Egregoria |
+| 54 | Corsa Sfrenata | Racing Game | `pmndrs/racing-game` | corse | https://github.com/pmndrs/racing-game |
+| 55 | Corsa Antigravita | HexGL | `BKcore/HexGL` | corse | https://github.com/BKcore/HexGL |
+| 56 | Arena delle Bestie | Ancient Beast | `FreezingMoon/AncientBeast` | strategia-a-turni | https://github.com/FreezingMoon/AncientBeast |
+| 57 | Guerra dei Continenti | TripleA | `triplea-game/triplea` | strategia-a-turni | https://github.com/triplea-game/triplea |
+| 58 | Conquista Globale | OpenFront | `openfrontio/OpenFrontIO` | strategia-tempo-reale | https://github.com/openfrontio/OpenFrontIO |
+| 59 | Comandante Libero | Godot Open RTS | `lampe-games/godot-open-rts` | strategia-tempo-reale | https://github.com/lampe-games/godot-open-rts |
+| 60 | Alchimista dei Cubi | Cube Composer | `sharkdp/cube-composer` | puzzle | https://github.com/sharkdp/cube-composer |
+| 61 | Guerriero del Codice | WarriorJS | `olistic/warriorjs` | puzzle | https://github.com/olistic/warriorjs |
+| 62 | Torre di Blocchi | React Tetris | `chvin/react-tetris` | puzzle | https://github.com/chvin/react-tetris |
+| 63 | Blocchi in Duello | Flatris | `ovidiuch/flatris` | puzzle | https://github.com/ovidiuch/flatris |
+| 64 | Mazzo dei Solitari | PySolFC | `shlomif/PySolFC` | puzzle | https://github.com/shlomif/PySolFC |
+| 65 | Labirinto Famelico | Pacman HTML5 | `mumuy/pacman` | browser | https://github.com/mumuy/pacman |
+| 66 | Mondi Biomi | Biomes | `ill-inc/biomes-game` | online | https://github.com/ill-inc/biomes-game |
+| 67 | Saga del Regno Pixel | Kaetram | `Kaetram/Kaetram-Open` | online | https://github.com/Kaetram/Kaetram-Open |
+| 68 | Cercatore di Mine | Antimine | `lucasnlm/antimine-android` | mobile | https://github.com/lucasnlm/antimine-android |
+| 69 | Mattoni Sospesi | Compose Tetris | `vitaviva/compose-tetris` | mobile | https://github.com/vitaviva/compose-tetris |
+| 70 | Grotta dei Ricordi | doukutsu-rs | `doukutsu-rs/doukutsu-rs` | classici-rinati | https://github.com/doukutsu-rs/doukutsu-rs |
+| 71 | Baluardo dell'Impero | TowerDefense GameFramework Demo | `DrFlower/TowerDefense-GameFramework-Demo` | difesa | https://github.com/DrFlower/TowerDefense-GameFramework-Demo |
+
+Fonti per cercarne altri: `_fonti/file.md` (bobeff/open-source-games, leereilly/games). Script: `claudetemp\giochi\giochi3.py` (lista G3) + `costruisci_prodotti.py`.
