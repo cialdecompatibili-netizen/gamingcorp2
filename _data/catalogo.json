@@ -1521,6 +1521,462 @@
           "descrizione_completa": "Tower defense in Unity built with an open source framework.\nReference open source project: TowerDefense GameFramework Demo (https://github.com/DrFlower/TowerDefense-GameFramework-Demo).\nTest page: name and texts are fictional, rights remain with the original authors."
         }
       }
+    },
+    {
+      "tipo": "digitale",
+      "id": "sotterranei-di-pixel",
+      "nome": "Sotterranei di Pixel",
+      "categoria": "gdr",
+      "prezzo_centesimi": 0,
+      "descrizione": "Roguelike classico in pixel art: scendi nei sotterranei, trova oggetti e sopravvivi.",
+      "descrizione_completa": "Roguelike classico in pixel art: scendi nei sotterranei, trova oggetti e sopravvivi.\nProgetto open source di riferimento: Pixel Dungeon (https://github.com/watabou/pixel-dungeon).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/sotterranei-di-pixel.webp",
+      "icona": "🐉",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Pixel Depths",
+          "descrizione": "Classic pixel-art roguelike: descend the dungeon, find items and survive.",
+          "descrizione_completa": "Classic pixel-art roguelike: descend the dungeon, find items and survive.\nReference open source project: Pixel Dungeon (https://github.com/watabou/pixel-dungeon).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "duello-degli-arconti",
+      "nome": "Duello degli Arconti",
+      "categoria": "online",
+      "prezzo_centesimi": 0,
+      "descrizione": "Gioco di carte collezionabili e tattica a turni su griglia, ora open source.",
+      "descrizione_completa": "Gioco di carte collezionabili e tattica a turni su griglia, ora open source.\nProgetto open source di riferimento: Duelyst (https://github.com/open-duelyst/duelyst).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/duello-degli-arconti.webp",
+      "icona": "🌐",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Archon Duel",
+          "descrizione": "Collectible card game and grid-based turn tactics, now open source.",
+          "descrizione_completa": "Collectible card game and grid-based turn tactics, now open source.\nReference open source project: Duelyst (https://github.com/open-duelyst/duelyst).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "parole-isometriche",
+      "nome": "Parole Isometriche",
+      "categoria": "mobile",
+      "prezzo_centesimi": 0,
+      "descrizione": "Gioco di parole su un cubo 3D: trova parole e scala le classifiche.",
+      "descrizione_completa": "Gioco di parole su un cubo 3D: trova parole e scala le classifiche.\nProgetto open source di riferimento: isowords (https://github.com/pointfreeco/isowords).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/parole-isometriche.webp",
+      "icona": "📱",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Isometric Words",
+          "descrizione": "Word game on a 3D cube: find words and climb the leaderboards.",
+          "descrizione_completa": "Word game on a 3D cube: find words and climb the leaderboards.\nReference open source project: isowords (https://github.com/pointfreeco/isowords).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "maestro-dei-mazzi",
+      "nome": "Maestro dei Mazzi",
+      "categoria": "strategia-a-turni",
+      "prezzo_centesimi": 0,
+      "descrizione": "Motore di regole per giochi di carte collezionabili, con IA e partite online.",
+      "descrizione_completa": "Motore di regole per giochi di carte collezionabili, con IA e partite online.\nProgetto open source di riferimento: Forge (https://github.com/Card-Forge/forge).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/maestro-dei-mazzi.webp",
+      "icona": "♟️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Deck Master",
+          "descrizione": "Rules engine for collectible card games, with AI and online matches.",
+          "descrizione_completa": "Rules engine for collectible card games, with AI and online matches.\nReference open source project: Forge (https://github.com/Card-Forge/forge).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "civilta-nel-browser",
+      "nome": "Civilta nel Browser",
+      "categoria": "strategia-a-turni",
+      "prezzo_centesimi": 0,
+      "descrizione": "Strategia a turni a tema civilta, giocabile nel browser.",
+      "descrizione_completa": "Strategia a turni a tema civilta, giocabile nel browser.\nProgetto open source di riferimento: Freeciv-web (https://github.com/freeciv/freeciv-web).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/civilta-nel-browser.webp",
+      "icona": "♟️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Browser Civilization",
+          "descrizione": "Civilization-style turn-based strategy playable in the browser.",
+          "descrizione_completa": "Civilization-style turn-based strategy playable in the browser.\nReference open source project: Freeciv-web (https://github.com/freeciv/freeciv-web).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "crisi-di-atena",
+      "nome": "Crisi di Atena",
+      "categoria": "strategia-a-turni",
+      "prezzo_centesimi": 0,
+      "descrizione": "Strategia tattica a turni in stile retro-moderno, con mappe e campagna.",
+      "descrizione_completa": "Strategia tattica a turni in stile retro-moderno, con mappe e campagna.\nProgetto open source di riferimento: Athena Crisis (https://github.com/nkzw-tech/athena-crisis).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/crisi-di-atena.webp",
+      "icona": "♟️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Athena Crisis",
+          "descrizione": "Modern-retro turn-based tactical strategy with maps and campaign.",
+          "descrizione_completa": "Modern-retro turn-based tactical strategy with maps and campaign.\nReference open source project: Athena Crisis (https://github.com/nkzw-tech/athena-crisis).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "colonie-libere",
+      "nome": "Colonie Libere",
+      "categoria": "strategia-a-turni",
+      "prezzo_centesimi": 0,
+      "descrizione": "Strategia a turni: fonda colonie, commercia ed espandi il tuo impero.",
+      "descrizione_completa": "Strategia a turni: fonda colonie, commercia ed espandi il tuo impero.\nProgetto open source di riferimento: FreeCol (https://github.com/FreeCol/freecol).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/colonie-libere.webp",
+      "icona": "♟️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Free Colonies",
+          "descrizione": "Turn-based strategy: found colonies, trade and expand your empire.",
+          "descrizione_completa": "Turn-based strategy: found colonies, trade and expand your empire.\nReference open source project: FreeCol (https://github.com/FreeCol/freecol).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "signore-delle-stelle",
+      "nome": "Signore delle Stelle",
+      "categoria": "strategia-tempo-reale",
+      "prezzo_centesimi": 0,
+      "descrizione": "Strategia spaziale 4X in tempo reale con imperi, flotte e diplomazia.",
+      "descrizione_completa": "Strategia spaziale 4X in tempo reale con imperi, flotte e diplomazia.\nProgetto open source di riferimento: Star Ruler 2 (https://github.com/BlindMindStudios/StarRuler2-Source).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/signore-delle-stelle.webp",
+      "icona": "⚡",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Lord of the Stars",
+          "descrizione": "Real-time 4X space strategy with empires, fleets and diplomacy.",
+          "descrizione_completa": "Real-time 4X space strategy with empires, fleets and diplomacy.\nReference open source project: Star Ruler 2 (https://github.com/BlindMindStudios/StarRuler2-Source).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "fronte-aperto",
+      "nome": "Fronte Aperto",
+      "categoria": "strategia-tempo-reale",
+      "prezzo_centesimi": 0,
+      "descrizione": "Motore e gioco RTS 3D scritto in Java.",
+      "descrizione_completa": "Motore e gioco RTS 3D scritto in Java.\nProgetto open source di riferimento: OpenRTS (https://github.com/methusalah/OpenRTS).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/fronte-aperto.webp",
+      "icona": "⚡",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Open Front",
+          "descrizione": "3D real-time strategy engine and game written in Java.",
+          "descrizione_completa": "3D real-time strategy engine and game written in Java.\nReference open source project: OpenRTS (https://github.com/methusalah/OpenRTS).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "colonie-di-ferro",
+      "nome": "Colonie di Ferro",
+      "categoria": "strategia-tempo-reale",
+      "prezzo_centesimi": 0,
+      "descrizione": "Strategia in tempo reale pixel art a tema fantascientifico.",
+      "descrizione_completa": "Strategia in tempo reale pixel art a tema fantascientifico.\nProgetto open source di riferimento: OpenHV (https://github.com/OpenHV/OpenHV).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/colonie-di-ferro.webp",
+      "icona": "⚡",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Iron Colonies",
+          "descrizione": "Pixel-art science-fiction real-time strategy.",
+          "descrizione_completa": "Pixel-art science-fiction real-time strategy.\nReference open source project: OpenHV (https://github.com/OpenHV/OpenHV).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "una-vita-sola",
+      "nome": "Una Vita Sola",
+      "categoria": "online",
+      "prezzo_centesimi": 0,
+      "descrizione": "Gioco di sopravvivenza multigiocatore: ogni giocatore vive una vita e tramanda ai discendenti.",
+      "descrizione_completa": "Gioco di sopravvivenza multigiocatore: ogni giocatore vive una vita e tramanda ai discendenti.\nProgetto open source di riferimento: One Hour One Life (https://github.com/jasonrohrer/OneLife).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/una-vita-sola.webp",
+      "icona": "🌐",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "One Single Life",
+          "descrizione": "Multiplayer survival game: each player lives one life and passes it down.",
+          "descrizione_completa": "Multiplayer survival game: each player lives one life and passes it down.\nReference open source project: One Hour One Life (https://github.com/jasonrohrer/OneLife).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "rettilineo-retro",
+      "nome": "Rettilineo Retro",
+      "categoria": "corse",
+      "prezzo_centesimi": 0,
+      "descrizione": "Corse in stile arcade anni 80, scritte in JavaScript.",
+      "descrizione_completa": "Corse in stile arcade anni 80, scritte in JavaScript.\nProgetto open source di riferimento: JavaScript Racer (https://github.com/jakesgordon/javascript-racer).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/rettilineo-retro.webp",
+      "icona": "🏎️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Retro Straight",
+          "descrizione": "80s arcade-style racing written in JavaScript.",
+          "descrizione_completa": "80s arcade-style racing written in JavaScript.\nReference open source project: JavaScript Racer (https://github.com/jakesgordon/javascript-racer).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "corridore-rosso",
+      "nome": "Corridore Rosso",
+      "categoria": "platform",
+      "prezzo_centesimi": 0,
+      "descrizione": "Platform 2D a scorrimento: corri, salta ed evita i pericoli.",
+      "descrizione_completa": "Platform 2D a scorrimento: corri, salta ed evita i pericoli.\nProgetto open source di riferimento: Red Runner (https://github.com/BayatGames/RedRunner).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/corridore-rosso.webp",
+      "icona": "🍄",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Red Dash",
+          "descrizione": "2D side-scrolling platformer: run, jump and dodge hazards.",
+          "descrizione_completa": "2D side-scrolling platformer: run, jump and dodge hazards.\nReference open source project: Red Runner (https://github.com/BayatGames/RedRunner).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "squadra-in-corsa",
+      "nome": "Squadra in Corsa",
+      "categoria": "platform",
+      "prezzo_centesimi": 0,
+      "descrizione": "Platform cooperativo online: supera i livelli insieme ad altri giocatori.",
+      "descrizione_completa": "Platform cooperativo online: supera i livelli insieme ad altri giocatori.\nProgetto open source di riferimento: DDraceNetwork (https://github.com/ddnet/ddnet).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/squadra-in-corsa.webp",
+      "icona": "🍄",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Team Dash",
+          "descrizione": "Online cooperative platformer: clear levels together with other players.",
+          "descrizione_completa": "Online cooperative platformer: clear levels together with other players.\nReference open source project: DDraceNetwork (https://github.com/ddnet/ddnet).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "officina-degli-enigmi",
+      "nome": "Officina degli Enigmi",
+      "categoria": "puzzle",
+      "prezzo_centesimi": 0,
+      "descrizione": "Motore HTML5 per creare e giocare puzzle a blocchi.",
+      "descrizione_completa": "Motore HTML5 per creare e giocare puzzle a blocchi.\nProgetto open source di riferimento: PuzzleScript (https://github.com/increpare/PuzzleScript).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/officina-degli-enigmi.webp",
+      "icona": "🧩",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Puzzle Workshop",
+          "descrizione": "HTML5 engine to create and play block-pushing puzzles.",
+          "descrizione_completa": "HTML5 engine to create and play block-pushing puzzles.\nReference open source project: PuzzleScript (https://github.com/increpare/PuzzleScript).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "regno-di-reia",
+      "nome": "Regno di Reia",
+      "categoria": "gdr",
+      "prezzo_centesimi": 0,
+      "descrizione": "GDR d'azione online in sviluppo con Godot e Rust.",
+      "descrizione_completa": "GDR d'azione online in sviluppo con Godot e Rust.\nProgetto open source di riferimento: Reia (https://github.com/Quaint-Studios/Reia).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/regno-di-reia.webp",
+      "icona": "🐉",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Realm of Reia",
+          "descrizione": "Online action RPG in development with Godot and Rust.",
+          "descrizione_completa": "Online action RPG in development with Godot and Rust.\nReference open source project: Reia (https://github.com/Quaint-Studios/Reia).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "domani-maledetto",
+      "nome": "Domani Maledetto",
+      "categoria": "avventura",
+      "prezzo_centesimi": 0,
+      "descrizione": "Survival horror 2D: scappa e sopravvivi in un mondo oscuro.",
+      "descrizione_completa": "Survival horror 2D: scappa e sopravvivi in un mondo oscuro.\nProgetto open source di riferimento: Cursed Tomorrow (https://github.com/AhmadHassan-BTed/CursedTomorrow).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/domani-maledetto.webp",
+      "icona": "🗺️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Cursed Tomorrow",
+          "descrizione": "2D survival horror: escape and survive in a dark world.",
+          "descrizione_completa": "2D survival horror: escape and survive in a dark world.\nReference open source project: Cursed Tomorrow (https://github.com/AhmadHassan-BTed/CursedTomorrow).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "sentiero-dei-byte",
+      "nome": "Sentiero dei Byte",
+      "categoria": "azione",
+      "prezzo_centesimi": 0,
+      "descrizione": "Sparatutto arcade rigiocabile con grande albero di potenziamenti.",
+      "descrizione_completa": "Sparatutto arcade rigiocabile con grande albero di potenziamenti.\nProgetto open source di riferimento: BYTEPATH (https://github.com/a327ex/BYTEPATH).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/sentiero-dei-byte.webp",
+      "icona": "⚔️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Byte Trail",
+          "descrizione": "Replayable arcade shooter with a huge upgrade tree.",
+          "descrizione_completa": "Replayable arcade shooter with a huge upgrade tree.\nReference open source project: BYTEPATH (https://github.com/a327ex/BYTEPATH).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "scacchi-in-tasca",
+      "nome": "Scacchi in Tasca",
+      "categoria": "mobile",
+      "prezzo_centesimi": 0,
+      "descrizione": "App di scacchi gratuita per telefono, senza pubblicita.",
+      "descrizione_completa": "App di scacchi gratuita per telefono, senza pubblicita.\nProgetto open source di riferimento: Lichess Mobile (https://github.com/lichess-org/mobile).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/scacchi-in-tasca.webp",
+      "icona": "📱",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Pocket Chess",
+          "descrizione": "Free, ad-free chess app for your phone.",
+          "descrizione_completa": "Free, ad-free chess app for your phone.\nReference open source project: Lichess Mobile (https://github.com/lichess-org/mobile).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "potenze-di-due",
+      "nome": "Potenze di Due",
+      "categoria": "mobile",
+      "prezzo_centesimi": 0,
+      "descrizione": "Il celebre puzzle dei numeri per Android, giocabile offline.",
+      "descrizione_completa": "Il celebre puzzle dei numeri per Android, giocabile offline.\nProgetto open source di riferimento: 2048 Android (https://github.com/uberspot/2048-android).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/potenze-di-due.webp",
+      "icona": "📱",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Powers of Two",
+          "descrizione": "The famous number puzzle for Android, playable offline.",
+          "descrizione_completa": "The famous number puzzle for Android, playable offline.\nReference open source project: 2048 Android (https://github.com/uberspot/2048-android).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "blocchi-dispettosi",
+      "nome": "Blocchi Dispettosi",
+      "categoria": "puzzle",
+      "prezzo_centesimi": 0,
+      "descrizione": "Tetris che ti da sempre il pezzo peggiore: sfida impossibile.",
+      "descrizione_completa": "Tetris che ti da sempre il pezzo peggiore: sfida impossibile.\nProgetto open source di riferimento: Hatetris (https://github.com/qntm/hatetris).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/blocchi-dispettosi.webp",
+      "icona": "🧩",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Nasty Blocks",
+          "descrizione": "Tetris that always gives you the worst piece: an impossible challenge.",
+          "descrizione_completa": "Tetris that always gives you the worst piece: an impossible challenge.\nReference open source project: Hatetris (https://github.com/qntm/hatetris).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "mattoncini-vue",
+      "nome": "Mattoncini Vue",
+      "categoria": "browser",
+      "prezzo_centesimi": 0,
+      "descrizione": "Tetris nel browser con effetti e salvataggio della partita.",
+      "descrizione_completa": "Tetris nel browser con effetti e salvataggio della partita.\nProgetto open source di riferimento: Vue Tetris (https://github.com/Binaryify/vue-tetris).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/mattoncini-vue.webp",
+      "icona": "🌍",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Vue Bricks",
+          "descrizione": "Browser Tetris with effects and game saving.",
+          "descrizione_completa": "Browser Tetris with effects and game saving.\nReference open source project: Vue Tetris (https://github.com/Binaryify/vue-tetris).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "sala-giochi-da-console",
+      "nome": "Sala Giochi da Console",
+      "categoria": "sport",
+      "prezzo_centesimi": 0,
+      "descrizione": "Raccolta di piccoli giochi da terminale: serpente, tetris, corse e altri.",
+      "descrizione_completa": "Raccolta di piccoli giochi da terminale: serpente, tetris, corse e altri.\nProgetto open source di riferimento: dotnet console games (https://github.com/dotnet/dotnet-console-games).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/sala-giochi-da-console.webp",
+      "icona": "⚽",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Console Arcade",
+          "descrizione": "Collection of small terminal games: snake, tetris, racing and more.",
+          "descrizione_completa": "Collection of small terminal games: snake, tetris, racing and more.\nReference open source project: dotnet console games (https://github.com/dotnet/dotnet-console-games).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "laboratorio-dei-giochi",
+      "nome": "Laboratorio dei Giochi",
+      "categoria": "sandbox",
+      "prezzo_centesimi": 0,
+      "descrizione": "Editor online gratuito per creare e condividere giochi.",
+      "descrizione_completa": "Editor online gratuito per creare e condividere giochi.\nProgetto open source di riferimento: microStudio (https://github.com/pmgl/microstudio).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/laboratorio-dei-giochi.webp",
+      "icona": "⛏️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Game Lab",
+          "descrizione": "Free online editor to create and share games.",
+          "descrizione_completa": "Free online editor to create and share games.\nReference open source project: microStudio (https://github.com/pmgl/microstudio).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
     }
   ]
 }

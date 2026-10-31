@@ -136,3 +136,34 @@ Ogni gioco del negozio ha nome di fantasia; qui il progetto vero. Fork eventuale
 | 71 | Baluardo dell'Impero | TowerDefense GameFramework Demo | `DrFlower/TowerDefense-GameFramework-Demo` | difesa | https://github.com/DrFlower/TowerDefense-GameFramework-Demo |
 
 Fonti per cercarne altri: `_fonti/file.md` (bobeff/open-source-games, leereilly/games). Script: `claudetemp\giochi\giochi3.py` (lista G3) + `costruisci_prodotti.py`.
+
+### Aggiunta 31/10 sera: giochi 72-95 (script giochi4.py)
+
+| # | Nome fantasia (IT) | Nome originale | Repo originale | Categoria | Link |
+|---|---|---|---|---|---|
+| 72 | Sotterranei di Pixel | Pixel Dungeon | `watabou/pixel-dungeon` | gdr | https://github.com/watabou/pixel-dungeon |
+| 73 | Duello degli Arconti | Duelyst | `open-duelyst/duelyst` | online | https://github.com/open-duelyst/duelyst |
+| 74 | Parole Isometriche | isowords | `pointfreeco/isowords` | mobile | https://github.com/pointfreeco/isowords |
+| 75 | Maestro dei Mazzi | Forge | `Card-Forge/forge` | strategia-a-turni | https://github.com/Card-Forge/forge |
+| 76 | Civilta nel Browser | Freeciv-web | `freeciv/freeciv-web` | strategia-a-turni | https://github.com/freeciv/freeciv-web |
+| 77 | Crisi di Atena | Athena Crisis | `nkzw-tech/athena-crisis` | strategia-a-turni | https://github.com/nkzw-tech/athena-crisis |
+| 78 | Colonie Libere | FreeCol | `FreeCol/freecol` | strategia-a-turni | https://github.com/FreeCol/freecol |
+| 79 | Signore delle Stelle | Star Ruler 2 | `BlindMindStudios/StarRuler2-Source` | strategia-tempo-reale | https://github.com/BlindMindStudios/StarRuler2-Source |
+| 80 | Fronte Aperto | OpenRTS | `methusalah/OpenRTS` | strategia-tempo-reale | https://github.com/methusalah/OpenRTS |
+| 81 | Colonie di Ferro | OpenHV | `OpenHV/OpenHV` | strategia-tempo-reale | https://github.com/OpenHV/OpenHV |
+| 82 | Una Vita Sola | One Hour One Life | `jasonrohrer/OneLife` | online | https://github.com/jasonrohrer/OneLife |
+| 83 | Rettilineo Retro | JavaScript Racer | `jakesgordon/javascript-racer` | corse | https://github.com/jakesgordon/javascript-racer |
+| 84 | Corridore Rosso | Red Runner | `BayatGames/RedRunner` | platform | https://github.com/BayatGames/RedRunner |
+| 85 | Squadra in Corsa | DDraceNetwork | `ddnet/ddnet` | platform | https://github.com/ddnet/ddnet |
+| 86 | Officina degli Enigmi | PuzzleScript | `increpare/PuzzleScript` | puzzle | https://github.com/increpare/PuzzleScript |
+| 87 | Regno di Reia | Reia | `Quaint-Studios/Reia` | gdr | https://github.com/Quaint-Studios/Reia |
+| 88 | Domani Maledetto | Cursed Tomorrow | `AhmadHassan-BTed/CursedTomorrow` | avventura | https://github.com/AhmadHassan-BTed/CursedTomorrow |
+| 89 | Sentiero dei Byte | BYTEPATH | `a327ex/BYTEPATH` | azione | https://github.com/a327ex/BYTEPATH |
+| 90 | Scacchi in Tasca | Lichess Mobile | `lichess-org/mobile` | mobile | https://github.com/lichess-org/mobile |
+| 91 | Potenze di Due | 2048 Android | `uberspot/2048-android` | mobile | https://github.com/uberspot/2048-android |
+| 92 | Blocchi Dispettosi | Hatetris | `qntm/hatetris` | puzzle | https://github.com/qntm/hatetris |
+| 93 | Mattoncini Vue | Vue Tetris | `Binaryify/vue-tetris` | browser | https://github.com/Binaryify/vue-tetris |
+| 94 | Sala Giochi da Console | dotnet console games | `dotnet/dotnet-console-games` | sport | https://github.com/dotnet/dotnet-console-games |
+| 95 | Laboratorio dei Giochi | microStudio | `pmgl/microstudio` | sandbox | https://github.com/pmgl/microstudio |
+
+Esclusi: motori/strumenti (pixijs, GDevelop, libgdx), riscritture di giochi commerciali che richiedono asset originali (OpenRCT2, openage, fheroes2, CorsixTH, OpenJK), Barotrauma (senza licenza chiara), cloni con marchi altrui (Pokemon Auto Chess). Totale ora: 95 giochi.
