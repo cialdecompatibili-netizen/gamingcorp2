@@ -172,5 +172,785 @@
       }
     }
   ],
-  "prodotti": []
+  "prodotti": [
+    {
+      "tipo": "digitale",
+      "id": "ipersonno-armato",
+      "nome": "Ipersonno Armato",
+      "categoria": "azione",
+      "prezzo_centesimi": 0,
+      "descrizione": "Sparatutto multiplayer 2D visto dall'alto, veloce e competitivo.",
+      "descrizione_completa": "Sparatutto multiplayer 2D visto dall'alto, veloce e competitivo.\nProgetto open source di riferimento: Hypersomnia (https://github.com/TeamHypersomnia/Hypersomnia).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/ipersonno-armato.webp",
+      "icona": "⚔️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Armed Hypersleep",
+          "descrizione": "Fast, competitive top-down 2D multiplayer shooter.",
+          "descrizione_completa": "Fast, competitive top-down 2D multiplayer shooter.\nReference open source project: Hypersomnia (https://github.com/TeamHypersomnia/Hypersomnia).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cubo-dassalto",
+      "nome": "Cubo d'Assalto",
+      "categoria": "sparatutto",
+      "prezzo_centesimi": 0,
+      "descrizione": "Sparatutto in prima persona leggero, veloce e giocabile su PC modesti.",
+      "descrizione_completa": "Sparatutto in prima persona leggero, veloce e giocabile su PC modesti.\nProgetto open source di riferimento: AssaultCube (https://github.com/assaultcube/AC).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/cubo-dassalto.webp",
+      "icona": "🔫",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Assault Cube",
+          "descrizione": "Light, fast first-person shooter that runs on modest PCs.",
+          "descrizione_completa": "Light, fast first-person shooter that runs on modest PCs.\nReference open source project: AssaultCube (https://github.com/assaultcube/AC).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "pesce-saltatore",
+      "nome": "Pesce Saltatore",
+      "categoria": "platform",
+      "prezzo_centesimi": 0,
+      "descrizione": "Platform tattico 2D con combattimenti rapidi tra animali.",
+      "descrizione_completa": "Platform tattico 2D con combattimenti rapidi tra animali.\nProgetto open source di riferimento: Jumpy (https://github.com/fishfolk/jumpy).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/pesce-saltatore.webp",
+      "icona": "🍄",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Leaping Fish",
+          "descrizione": "Tactical 2D platformer with quick animal fights.",
+          "descrizione_completa": "Tactical 2D platformer with quick animal fights.\nReference open source project: Jumpy (https://github.com/fishfolk/jumpy).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "pinguino-supremo",
+      "nome": "Pinguino Supremo",
+      "categoria": "platform",
+      "prezzo_centesimi": 0,
+      "descrizione": "Platform 2D classico con un pinguino eroe, livelli e boss.",
+      "descrizione_completa": "Platform 2D classico con un pinguino eroe, livelli e boss.\nProgetto open source di riferimento: SuperTux (https://github.com/SuperTux/supertux).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/pinguino-supremo.webp",
+      "icona": "🍄",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Supreme Penguin",
+          "descrizione": "Classic 2D platformer starring a penguin hero, with levels and bosses.",
+          "descrizione_completa": "Classic 2D platformer starring a penguin hero, with levels and bosses.\nReference open source project: SuperTux (https://github.com/SuperTux/supertux).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "il-re-delle-potenze",
+      "nome": "Il Re delle Potenze",
+      "categoria": "puzzle",
+      "prezzo_centesimi": 0,
+      "descrizione": "Unisci le tessere uguali fino a raggiungere la potenza piu alta.",
+      "descrizione_completa": "Unisci le tessere uguali fino a raggiungere la potenza piu alta.\nProgetto open source di riferimento: 2048 (https://github.com/gabrielecirulli/2048).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/il-re-delle-potenze.webp",
+      "icona": "🧩",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Lord of Powers",
+          "descrizione": "Merge matching tiles to reach the highest power.",
+          "descrizione_completa": "Merge matching tiles to reach the highest power.\nReference open source project: 2048 (https://github.com/gabrielecirulli/2048).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "scacchiera-eterna",
+      "nome": "Scacchiera Eterna",
+      "categoria": "puzzle",
+      "prezzo_centesimi": 0,
+      "descrizione": "Scacchi online gratuiti: partite, problemi e tornei.",
+      "descrizione_completa": "Scacchi online gratuiti: partite, problemi e tornei.\nProgetto open source di riferimento: Lichess (https://github.com/ornicar/lila).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/scacchiera-eterna.webp",
+      "icona": "🧩",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Eternal Chessboard",
+          "descrizione": "Free online chess: games, puzzles and tournaments.",
+          "descrizione_completa": "Free online chess: games, puzzles and tournaments.\nReference open source project: Lichess (https://github.com/ornicar/lila).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "mahjong-infinito",
+      "nome": "Mahjong Infinito",
+      "categoria": "puzzle",
+      "prezzo_centesimi": 0,
+      "descrizione": "Solitario Mahjong con meccaniche roguelike.",
+      "descrizione_completa": "Solitario Mahjong con meccaniche roguelike.\nProgetto open source di riferimento: Whatajong (https://github.com/masylum/whatajong).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/mahjong-infinito.webp",
+      "icona": "🧩",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Infinite Mahjong",
+          "descrizione": "Mahjong solitaire with roguelike mechanics.",
+          "descrizione_completa": "Mahjong solitaire with roguelike mechanics.\nReference open source project: Whatajong (https://github.com/masylum/whatajong).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "esagono-cosmico",
+      "nome": "Esagono Cosmico",
+      "categoria": "browser",
+      "prezzo_centesimi": 0,
+      "descrizione": "Puzzle frenetico ispirato a Tetris su griglia esagonale.",
+      "descrizione_completa": "Puzzle frenetico ispirato a Tetris su griglia esagonale.\nProgetto open source di riferimento: Hextris (https://github.com/Hextris/hextris).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/esagono-cosmico.webp",
+      "icona": "🌍",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Cosmic Hexagon",
+          "descrizione": "Fast-paced Tetris-inspired puzzle on a hexagonal grid.",
+          "descrizione_completa": "Fast-paced Tetris-inspired puzzle on a hexagonal grid.\nReference open source project: Hextris (https://github.com/Hextris/hextris).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "fortezza-dei-server",
+      "nome": "Fortezza dei Server",
+      "categoria": "browser",
+      "prezzo_centesimi": 0,
+      "descrizione": "Difendi la tua infrastruttura dal traffico e dagli attacchi.",
+      "descrizione_completa": "Difendi la tua infrastruttura dal traffico e dagli attacchi.\nProgetto open source di riferimento: Server Survival (https://github.com/pshenok/server-survival).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/fortezza-dei-server.webp",
+      "icona": "🌍",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Server Fortress",
+          "descrizione": "Defend your infrastructure from traffic and attacks.",
+          "descrizione_completa": "Defend your infrastructure from traffic and attacks.\nReference open source project: Server Survival (https://github.com/pshenok/server-survival).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ascesa-dei-morti",
+      "nome": "Ascesa dei Morti",
+      "categoria": "avventura",
+      "prezzo_centesimi": 0,
+      "descrizione": "Avventura punta e clicca disegnata a mano con zombi.",
+      "descrizione_completa": "Avventura punta e clicca disegnata a mano con zombi.\nProgetto open source di riferimento: Dead Ascend (https://github.com/larpon/DeadAscend).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/ascesa-dei-morti.webp",
+      "icona": "🗺️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Rise of the Dead",
+          "descrizione": "Hand-drawn point-and-click adventure with zombies.",
+          "descrizione_completa": "Hand-drawn point-and-click adventure with zombies.\nReference open source project: Dead Ascend (https://github.com/larpon/DeadAscend).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cataclisma-oscuro",
+      "nome": "Cataclisma Oscuro",
+      "categoria": "gdr",
+      "prezzo_centesimi": 0,
+      "descrizione": "Roguelike di sopravvivenza in un mondo post-apocalittico.",
+      "descrizione_completa": "Roguelike di sopravvivenza in un mondo post-apocalittico.\nProgetto open source di riferimento: Cataclysm: Dark Days Ahead (https://github.com/CleverRaven/Cataclysm-DDA).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/cataclisma-oscuro.webp",
+      "icona": "🐉",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Dark Cataclysm",
+          "descrizione": "Post-apocalyptic survival roguelike.",
+          "descrizione_completa": "Post-apocalyptic survival roguelike.\nReference open source project: Cataclysm: Dark Days Ahead (https://github.com/CleverRaven/Cataclysm-DDA).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "terre-di-veloria",
+      "nome": "Terre di Veloria",
+      "categoria": "gdr",
+      "prezzo_centesimi": 0,
+      "descrizione": "GDR multiplayer a mondo aperto in stile voxel.",
+      "descrizione_completa": "GDR multiplayer a mondo aperto in stile voxel.\nProgetto open source di riferimento: Veloren (https://github.com/veloren/veloren).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/terre-di-veloria.webp",
+      "icona": "🐉",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Lands of Veloria",
+          "descrizione": "Open-world voxel-style multiplayer RPG.",
+          "descrizione_completa": "Open-world voxel-style multiplayer RPG.\nReference open source project: Veloren (https://github.com/veloren/veloren).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "metropoli-futura",
+      "nome": "Metropoli Futura",
+      "categoria": "gestionali",
+      "prezzo_centesimi": 0,
+      "descrizione": "Costruttore di citta con simulazione dettagliata del traffico.",
+      "descrizione_completa": "Costruttore di citta con simulazione dettagliata del traffico.\nProgetto open source di riferimento: Citybound (https://github.com/citybound/citybound).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/metropoli-futura.webp",
+      "icona": "🏙️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Future Metropolis",
+          "descrizione": "City builder with a detailed traffic simulation.",
+          "descrizione_completa": "City builder with a detailed traffic simulation.\nReference open source project: Citybound (https://github.com/citybound/citybound).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "asfalto-in-derapata",
+      "nome": "Asfalto in Derapata",
+      "categoria": "corse",
+      "prezzo_centesimi": 0,
+      "descrizione": "Simulatore di guida e drift con fisica realistica.",
+      "descrizione_completa": "Simulatore di guida e drift con fisica realistica.\nProgetto open source di riferimento: VDrift (https://github.com/VDrift/vdrift).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/asfalto-in-derapata.webp",
+      "icona": "🏎️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Drifting Asphalt",
+          "descrizione": "Driving and drifting simulator with realistic physics.",
+          "descrizione_completa": "Driving and drifting simulator with realistic physics.\nReference open source project: VDrift (https://github.com/VDrift/vdrift).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "fisica-dacciaio",
+      "nome": "Fisica d'Acciaio",
+      "categoria": "corse",
+      "prezzo_centesimi": 0,
+      "descrizione": "Simulatore di veicoli con fisica a corpo deformabile.",
+      "descrizione_completa": "Simulatore di veicoli con fisica a corpo deformabile.\nProgetto open source di riferimento: Rigs of Rods (https://github.com/RigsOfRods/rigs-of-rods).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/fisica-dacciaio.webp",
+      "icona": "🏎️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Steel Physics",
+          "descrizione": "Vehicle simulator with soft-body physics.",
+          "descrizione_completa": "Vehicle simulator with soft-body physics.\nReference open source project: Rigs of Rods (https://github.com/RigsOfRods/rigs-of-rods).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cubi-classici",
+      "nome": "Cubi Classici",
+      "categoria": "sandbox",
+      "prezzo_centesimi": 0,
+      "descrizione": "Costruzione a blocchi leggera in stile classico, anche nel browser.",
+      "descrizione_completa": "Costruzione a blocchi leggera in stile classico, anche nel browser.\nProgetto open source di riferimento: ClassiCube (https://github.com/ClassiCube/ClassiCube).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/cubi-classici.webp",
+      "icona": "⛏️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Classic Cubes",
+          "descrizione": "Lightweight classic-style block building, also in the browser.",
+          "descrizione_completa": "Lightweight classic-style block building, also in the browser.\nReference open source project: ClassiCube (https://github.com/ClassiCube/ClassiCube).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "green-dei-campioni",
+      "nome": "Green dei Campioni",
+      "categoria": "sport",
+      "prezzo_centesimi": 0,
+      "descrizione": "Golf 3D minimalista con percorsi creativi.",
+      "descrizione_completa": "Golf 3D minimalista con percorsi creativi.\nProgetto open source di riferimento: Open Golf (https://github.com/mgerdes/Open-Golf).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/green-dei-campioni.webp",
+      "icona": "⚽",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Champions' Green",
+          "descrizione": "Minimalist 3D golf with creative courses.",
+          "descrizione_completa": "Minimalist 3D golf with creative courses.\nReference open source project: Open Golf (https://github.com/mgerdes/Open-Golf).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "maestro-del-biliardo",
+      "nome": "Maestro del Biliardo",
+      "categoria": "sport",
+      "prezzo_centesimi": 0,
+      "descrizione": "Biliardo con simulazione fisica accurata.",
+      "descrizione_completa": "Biliardo con simulazione fisica accurata.\nProgetto open source di riferimento: Pooltool (https://github.com/ekiefl/pooltool).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/maestro-del-biliardo.webp",
+      "icona": "⚽",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Billiards Master",
+          "descrizione": "Billiards with accurate physics simulation.",
+          "descrizione_completa": "Billiards with accurate physics simulation.\nReference open source project: Pooltool (https://github.com/ekiefl/pooltool).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "imperi-lontani",
+      "nome": "Imperi Lontani",
+      "categoria": "strategia-tempo-reale",
+      "prezzo_centesimi": 0,
+      "descrizione": "Strategia in tempo reale di colonizzazione ed economia, in stile Settlers.",
+      "descrizione_completa": "Strategia in tempo reale di colonizzazione ed economia, in stile Settlers.\nProgetto open source di riferimento: Widelands (https://github.com/widelands/widelands).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/imperi-lontani.webp",
+      "icona": "⚡",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Distant Empires",
+          "descrizione": "Real-time colonization and economy strategy in the Settlers style.",
+          "descrizione_completa": "Real-time colonization and economy strategy in the Settlers style.\nReference open source project: Widelands (https://github.com/widelands/widelands).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "impero-eterno",
+      "nome": "Impero Eterno",
+      "categoria": "strategia-a-turni",
+      "prezzo_centesimi": 0,
+      "descrizione": "Costruisci una civilta a turni: citta, tecnologie e diplomazia.",
+      "descrizione_completa": "Costruisci una civilta a turni: citta, tecnologie e diplomazia.\nProgetto open source di riferimento: Unciv (https://github.com/yairm210/Unciv).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/impero-eterno.webp",
+      "icona": "♟️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Eternal Empire",
+          "descrizione": "Build a turn-based civilization: cities, technologies and diplomacy.",
+          "descrizione_completa": "Build a turn-based civilization: cities, technologies and diplomacy.\nReference open source project: Unciv (https://github.com/yairm210/Unciv).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "abisso-redento",
+      "nome": "Abisso Redento",
+      "categoria": "classici-rinati",
+      "prezzo_centesimi": 0,
+      "descrizione": "Port moderno di un celebre dungeon crawler, giocabile su molte piattaforme.",
+      "descrizione_completa": "Port moderno di un celebre dungeon crawler, giocabile su molte piattaforme.\nProgetto open source di riferimento: DevilutionX (https://github.com/diasurgical/devilutionX).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/abisso-redento.webp",
+      "icona": "🕹️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Redeemed Abyss",
+          "descrizione": "Modern port of a famed dungeon crawler, playable on many platforms.",
+          "descrizione_completa": "Modern port of a famed dungeon crawler, playable on many platforms.\nReference open source project: DevilutionX (https://github.com/diasurgical/devilutionX).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "memoria-arcana",
+      "nome": "Memoria Arcana",
+      "categoria": "mobile",
+      "prezzo_centesimi": 0,
+      "descrizione": "Gioco di memoria per Android: trova le coppie.",
+      "descrizione_completa": "Gioco di memoria per Android: trova le coppie.\nProgetto open source di riferimento: Memory Game (https://github.com/sromku/memory-game).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/memoria-arcana.webp",
+      "icona": "📱",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Arcane Memory",
+          "descrizione": "Android memory game: find the pairs.",
+          "descrizione_completa": "Android memory game: find the pairs.\nReference open source project: Memory Game (https://github.com/sromku/memory-game).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "caccia-agli-spettri",
+      "nome": "Caccia agli Spettri",
+      "categoria": "mobile",
+      "prezzo_centesimi": 0,
+      "descrizione": "Gioco Android in realta aumentata: caccia ai fantasmi con la fotocamera.",
+      "descrizione_completa": "Gioco Android in realta aumentata: caccia ai fantasmi con la fotocamera.\nProgetto open source di riferimento: Chase Whisply (https://github.com/tvbarthel/ChaseWhisplyProject).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/caccia-agli-spettri.webp",
+      "icona": "📱",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Ghost Hunt",
+          "descrizione": "Android augmented-reality game: hunt ghosts with your camera.",
+          "descrizione_completa": "Android augmented-reality game: hunt ghosts with your camera.\nReference open source project: Chase Whisply (https://github.com/tvbarthel/ChaseWhisplyProject).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "guerrieri-pixel",
+      "nome": "Guerrieri Pixel",
+      "categoria": "azione",
+      "prezzo_centesimi": 0,
+      "descrizione": "Azione 2D multiplayer a squadre con ganci, armi e mappe frenetiche.",
+      "descrizione_completa": "Azione 2D multiplayer a squadre con ganci, armi e mappe frenetiche.\nProgetto open source di riferimento: Teeworlds (https://github.com/teeworlds/teeworlds).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/guerrieri-pixel.webp",
+      "icona": "⚔️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Pixel Warriors",
+          "descrizione": "Team-based 2D multiplayer action with grappling hooks, weapons and frantic maps.",
+          "descrizione_completa": "Team-based 2D multiplayer action with grappling hooks, weapons and frantic maps.\nReference open source project: Teeworlds (https://github.com/teeworlds/teeworlds).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "gli-invitti",
+      "nome": "Gli Invitti",
+      "categoria": "sparatutto",
+      "prezzo_centesimi": 0,
+      "descrizione": "Sparatutto in prima persona con elementi di strategia: umani contro alieni.",
+      "descrizione_completa": "Sparatutto in prima persona con elementi di strategia: umani contro alieni.\nProgetto open source di riferimento: Unvanquished (https://github.com/Unvanquished/Unvanquished).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/gli-invitti.webp",
+      "icona": "🔫",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "The Unconquered",
+          "descrizione": "First-person shooter with strategy elements: humans versus aliens.",
+          "descrizione_completa": "First-person shooter with strategy elements: humans versus aliens.\nReference open source project: Unvanquished (https://github.com/Unvanquished/Unvanquished).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cercatore-del-reame",
+      "nome": "Cercatore del Reame",
+      "categoria": "browser",
+      "prezzo_centesimi": 0,
+      "descrizione": "Avventura multiplayer in pixel art che gira direttamente nel browser.",
+      "descrizione_completa": "Avventura multiplayer in pixel art che gira direttamente nel browser.\nProgetto open source di riferimento: BrowserQuest (https://github.com/mozilla/BrowserQuest).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/cercatore-del-reame.webp",
+      "icona": "🌍",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Realm Seeker",
+          "descrizione": "Pixel-art multiplayer adventure that runs right in your browser.",
+          "descrizione_completa": "Pixel-art multiplayer adventure that runs right in your browser.\nReference open source project: BrowserQuest (https://github.com/mozilla/BrowserQuest).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "custode-delle-vecchie-avventure",
+      "nome": "Custode delle Vecchie Avventure",
+      "categoria": "avventura",
+      "prezzo_centesimi": 0,
+      "descrizione": "Fa rivivere decine di storiche avventure grafiche (servono i dati originali dei giochi).",
+      "descrizione_completa": "Fa rivivere decine di storiche avventure grafiche (servono i dati originali dei giochi).\nProgetto open source di riferimento: ScummVM (https://github.com/scummvm/scummvm).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/custode-delle-vecchie-avventure.webp",
+      "icona": "🗺️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Keeper of Old Adventures",
+          "descrizione": "Brings dozens of classic graphic adventures back to life (original game data required).",
+          "descrizione_completa": "Brings dozens of classic graphic adventures back to life (original game data required).\nReference open source project: ScummVM (https://github.com/scummvm/scummvm).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "abissi-di-pietra",
+      "nome": "Abissi di Pietra",
+      "categoria": "gdr",
+      "prezzo_centesimi": 0,
+      "descrizione": "Roguelike a turni: esplora dungeon, scegli razza e classe, sopravvivi.",
+      "descrizione_completa": "Roguelike a turni: esplora dungeon, scegli razza e classe, sopravvivi.\nProgetto open source di riferimento: Dungeon Crawl Stone Soup (https://github.com/crawl/crawl).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/abissi-di-pietra.webp",
+      "icona": "🐉",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Stone Depths",
+          "descrizione": "Turn-based roguelike: explore dungeons, pick a race and class, survive.",
+          "descrizione_completa": "Turn-based roguelike: explore dungeons, pick a race and class, survive.\nReference open source project: Dungeon Crawl Stone Soup (https://github.com/crawl/crawl).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "imperatore-dei-trasporti",
+      "nome": "Imperatore dei Trasporti",
+      "categoria": "gestionali",
+      "prezzo_centesimi": 0,
+      "descrizione": "Costruisci reti di treni, bus, navi e aerei e fai crescere la tua azienda.",
+      "descrizione_completa": "Costruisci reti di treni, bus, navi e aerei e fai crescere la tua azienda.\nProgetto open source di riferimento: OpenTTD (https://github.com/OpenTTD/OpenTTD).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/imperatore-dei-trasporti.webp",
+      "icona": "🏙️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Transport Emperor",
+          "descrizione": "Build networks of trains, buses, ships and planes and grow your company.",
+          "descrizione_completa": "Build networks of trains, buses, ships and planes and grow your company.\nReference open source project: OpenTTD (https://github.com/OpenTTD/OpenTTD).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "gran-premio-dei-pinguini",
+      "nome": "Gran Premio dei Pinguini",
+      "categoria": "corse",
+      "prezzo_centesimi": 0,
+      "descrizione": "Corse di kart arcade con power-up, piste e modalita online.",
+      "descrizione_completa": "Corse di kart arcade con power-up, piste e modalita online.\nProgetto open source di riferimento: SuperTuxKart (https://github.com/supertuxkart/stk-code).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/gran-premio-dei-pinguini.webp",
+      "icona": "🏎️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Penguin Grand Prix",
+          "descrizione": "Arcade kart racing with power-ups, tracks and online modes.",
+          "descrizione_completa": "Arcade kart racing with power-ups, tracks and online modes.\nReference open source project: SuperTuxKart (https://github.com/supertuxkart/stk-code).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "terre-cubiche",
+      "nome": "Terre Cubiche",
+      "categoria": "sandbox",
+      "prezzo_centesimi": 0,
+      "descrizione": "Motore di giochi a blocchi: scava, costruisci e installa mod.",
+      "descrizione_completa": "Motore di giochi a blocchi: scava, costruisci e installa mod.\nProgetto open source di riferimento: Luanti (Minetest) (https://github.com/luanti-org/luanti).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/terre-cubiche.webp",
+      "icona": "⛏️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Cube Lands",
+          "descrizione": "Block-game engine: dig, build and install mods.",
+          "descrizione_completa": "Block-game engine: dig, build and install mods.\nReference open source project: Luanti (Minetest) (https://github.com/luanti-org/luanti).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "mondo-dei-blocchi-vivi",
+      "nome": "Mondo dei Blocchi Vivi",
+      "categoria": "sandbox",
+      "prezzo_centesimi": 0,
+      "descrizione": "Sandbox a blocchi con mondi generati e moduli.",
+      "descrizione_completa": "Sandbox a blocchi con mondi generati e moduli.\nProgetto open source di riferimento: Terasology (https://github.com/MovingBlocks/Terasology).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/mondo-dei-blocchi-vivi.webp",
+      "icona": "⛏️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Living Blocks World",
+          "descrizione": "Block sandbox with generated worlds and modules.",
+          "descrizione_completa": "Block sandbox with generated worlds and modules.\nReference open source project: Terasology (https://github.com/MovingBlocks/Terasology).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "fabbrica-fortezza",
+      "nome": "Fabbrica Fortezza",
+      "categoria": "difesa",
+      "prezzo_centesimi": 0,
+      "descrizione": "Tower defense con catene di produzione automatiche, anche su mobile.",
+      "descrizione_completa": "Tower defense con catene di produzione automatiche, anche su mobile.\nProgetto open source di riferimento: Mindustry (https://github.com/Anuken/Mindustry).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/fabbrica-fortezza.webp",
+      "icona": "🏰",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Factory Fortress",
+          "descrizione": "Tower defense with automated production chains, also on mobile.",
+          "descrizione_completa": "Tower defense with automated production chains, also on mobile.\nReference open source project: Mindustry (https://github.com/Anuken/Mindustry).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "fronte-di-ferro",
+      "nome": "Fronte di Ferro",
+      "categoria": "strategia-tempo-reale",
+      "prezzo_centesimi": 0,
+      "descrizione": "Motore RTS moderno ispirato ai classici di strategia anni 90.",
+      "descrizione_completa": "Motore RTS moderno ispirato ai classici di strategia anni 90.\nProgetto open source di riferimento: OpenRA (https://github.com/OpenRA/OpenRA).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/fronte-di-ferro.webp",
+      "icona": "⚡",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Iron Front",
+          "descrizione": "Modern RTS engine inspired by 90s strategy classics.",
+          "descrizione_completa": "Modern RTS engine inspired by 90s strategy classics.\nReference open source project: OpenRA (https://github.com/OpenRA/OpenRA).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "campo-di-battaglia-2100",
+      "nome": "Campo di Battaglia 2100",
+      "categoria": "strategia-tempo-reale",
+      "prezzo_centesimi": 0,
+      "descrizione": "Strategia in tempo reale con ricerca tecnologica e unita personalizzabili.",
+      "descrizione_completa": "Strategia in tempo reale con ricerca tecnologica e unita personalizzabili.\nProgetto open source di riferimento: Warzone 2100 (https://github.com/Warzone2100/warzone2100).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/campo-di-battaglia-2100.webp",
+      "icona": "⚡",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Battleground 2100",
+          "descrizione": "Real-time strategy with tech research and customizable units.",
+          "descrizione_completa": "Real-time strategy with tech research and customizable units.\nReference open source project: Warzone 2100 (https://github.com/Warzone2100/warzone2100).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "battaglia-per-eldoria",
+      "nome": "Battaglia per Eldoria",
+      "categoria": "strategia-a-turni",
+      "prezzo_centesimi": 0,
+      "descrizione": "Strategia a turni fantasy con campagne e multiplayer.",
+      "descrizione_completa": "Strategia a turni fantasy con campagne e multiplayer.\nProgetto open source di riferimento: Battle for Wesnoth (https://github.com/wesnoth/wesnoth).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/battaglia-per-eldoria.webp",
+      "icona": "♟️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Battle for Eldoria",
+          "descrizione": "Fantasy turn-based strategy with campaigns and multiplayer.",
+          "descrizione_completa": "Fantasy turn-based strategy with campaigns and multiplayer.\nReference open source project: Battle for Wesnoth (https://github.com/wesnoth/wesnoth).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "mondi-in-evoluzione",
+      "nome": "Mondi in Evoluzione",
+      "categoria": "strategia-a-turni",
+      "prezzo_centesimi": 0,
+      "descrizione": "Gioco di civilta a turni, anche multiplayer.",
+      "descrizione_completa": "Gioco di civilta a turni, anche multiplayer.\nProgetto open source di riferimento: Freeciv (https://github.com/freeciv/freeciv).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/mondi-in-evoluzione.webp",
+      "icona": "♟️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Worlds Evolving",
+          "descrizione": "Turn-based civilization game, multiplayer too.",
+          "descrizione_completa": "Turn-based civilization game, multiplayer too.\nReference open source project: Freeciv (https://github.com/freeciv/freeciv).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "leggenda-dei-cantastorie",
+      "nome": "Leggenda dei Cantastorie",
+      "categoria": "online",
+      "prezzo_centesimi": 0,
+      "descrizione": "MMORPG 2D con missioni, mostri e un mondo condiviso.",
+      "descrizione_completa": "MMORPG 2D con missioni, mostri e un mondo condiviso.\nProgetto open source di riferimento: Stendhal (https://github.com/arianne/stendhal).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/leggenda-dei-cantastorie.webp",
+      "icona": "🌐",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Bard's Legend",
+          "descrizione": "2D MMORPG with quests, monsters and a shared world.",
+          "descrizione_completa": "2D MMORPG with quests, monsters and a shared world.\nReference open source project: Stendhal (https://github.com/arianne/stendhal).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "meridiano-antico",
+      "nome": "Meridiano Antico",
+      "categoria": "online",
+      "prezzo_centesimi": 0,
+      "descrizione": "Uno dei primi MMORPG 3D, oggi open source.",
+      "descrizione_completa": "Uno dei primi MMORPG 3D, oggi open source.\nProgetto open source di riferimento: Meridian 59 (https://github.com/Meridian59/Meridian59).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/meridiano-antico.webp",
+      "icona": "🌐",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Ancient Meridian",
+          "descrizione": "One of the first 3D MMORPGs, now open source.",
+          "descrizione_completa": "One of the first 3D MMORPGs, now open source.\nReference open source project: Meridian 59 (https://github.com/Meridian59/Meridian59).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "inferno-classico",
+      "nome": "Inferno Classico",
+      "categoria": "classici-rinati",
+      "prezzo_centesimi": 0,
+      "descrizione": "Source port fedele di un celebre sparatutto del 1993.",
+      "descrizione_completa": "Source port fedele di un celebre sparatutto del 1993.\nProgetto open source di riferimento: Chocolate Doom (https://github.com/chocolate-doom/chocolate-doom).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/inferno-classico.webp",
+      "icona": "🕹️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Classic Inferno",
+          "descrizione": "Faithful source port of a famed 1993 shooter.",
+          "descrizione_completa": "Faithful source port of a famed 1993 shooter.\nReference open source project: Chocolate Doom (https://github.com/chocolate-doom/chocolate-doom).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cronache-riaperte",
+      "nome": "Cronache Riaperte",
+      "categoria": "classici-rinati",
+      "prezzo_centesimi": 0,
+      "descrizione": "Motore open source per giocare a un celebre GDR open world.",
+      "descrizione_completa": "Motore open source per giocare a un celebre GDR open world.\nProgetto open source di riferimento: OpenMW (https://github.com/OpenMW/openmw).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/cronache-riaperte.webp",
+      "icona": "🕹️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Reopened Chronicles",
+          "descrizione": "Open source engine to play a celebrated open-world RPG.",
+          "descrizione_completa": "Open source engine to play a celebrated open-world RPG.\nReference open source project: OpenMW (https://github.com/OpenMW/openmw).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    }
+  ]
 }
