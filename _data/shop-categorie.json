@@ -1,6 +1,70 @@
 [
   {
-    "nome": "esempio",
-    "slug": "esempio"
+    "nome": "Azione & Arcade",
+    "slug": "azione"
+  },
+  {
+    "nome": "Sparatutto FPS & TPS",
+    "slug": "sparatutto"
+  },
+  {
+    "nome": "Platform",
+    "slug": "platform"
+  },
+  {
+    "nome": "Avventura & Punta e Clicca",
+    "slug": "avventura"
+  },
+  {
+    "nome": "GDR & Roguelike",
+    "slug": "gdr"
+  },
+  {
+    "nome": "Mondi Online MMO",
+    "slug": "online"
+  },
+  {
+    "nome": "Strategia in Tempo Reale",
+    "slug": "strategia-tempo-reale"
+  },
+  {
+    "nome": "Strategia a Turni",
+    "slug": "strategia-a-turni"
+  },
+  {
+    "nome": "Gestionali & Citta",
+    "slug": "gestionali"
+  },
+  {
+    "nome": "Corse",
+    "slug": "corse"
+  },
+  {
+    "nome": "Puzzle & Giochi da Tavolo",
+    "slug": "puzzle"
+  },
+  {
+    "nome": "Sandbox & Costruzione",
+    "slug": "sandbox"
+  },
+  {
+    "nome": "Sport",
+    "slug": "sport"
+  },
+  {
+    "nome": "Tower Defense",
+    "slug": "difesa"
+  },
+  {
+    "nome": "Classici Rinati",
+    "slug": "classici-rinati"
+  },
+  {
+    "nome": "Giochi nel Browser",
+    "slug": "browser"
+  },
+  {
+    "nome": "Giochi Mobile",
+    "slug": "mobile"
   }
 ]

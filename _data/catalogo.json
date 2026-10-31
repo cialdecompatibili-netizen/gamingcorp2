@@ -2,35 +2,175 @@
   "_nota": "Catalogo dello shop (serve solo con ecommerce: true in _config.yml). Prezzi in CENTESIMI. Ogni prodotto/categoria ha anche una pagina in _negozio/ (layout negozio-prodotto con pid=<id>, negozio-categoria con cid=<id>). L'id categoria e' riservato. tipo: digitale (niente spedizione) o fisico. visibile:false nasconde senza cancellare. TRADUZIONI: ogni categoria/prodotto puo' avere \"tr\": {\"en\": {\"nome\": \"...\", \"descrizione\": \"...\", \"descrizione_completa\": \"...\"}}; campo mancante = si usa l'italiano.",
   "categorie": [
     {
-      "nome": "Esempio",
-      "id": "esempio",
-      "icona": "🛍️",
+      "nome": "Azione & Arcade",
+      "id": "azione",
+      "icona": "⚔️",
       "tr": {
         "en": {
-          "nome": "Example"
+          "nome": "Action & Arcade"
+        }
+      }
+    },
+    {
+      "nome": "Sparatutto FPS & TPS",
+      "id": "sparatutto",
+      "icona": "🔫",
+      "tr": {
+        "en": {
+          "nome": "Shooters FPS & TPS"
+        }
+      }
+    },
+    {
+      "nome": "Platform",
+      "id": "platform",
+      "icona": "🍄",
+      "tr": {
+        "en": {
+          "nome": "Platformers"
+        }
+      }
+    },
+    {
+      "nome": "Avventura & Punta e Clicca",
+      "id": "avventura",
+      "icona": "🗺️",
+      "tr": {
+        "en": {
+          "nome": "Adventure & Point and Click"
+        }
+      }
+    },
+    {
+      "nome": "GDR & Roguelike",
+      "id": "gdr",
+      "icona": "🐉",
+      "tr": {
+        "en": {
+          "nome": "RPG & Roguelike"
+        }
+      }
+    },
+    {
+      "nome": "Mondi Online MMO",
+      "id": "online",
+      "icona": "🌐",
+      "tr": {
+        "en": {
+          "nome": "Online Worlds MMO"
+        }
+      }
+    },
+    {
+      "nome": "Strategia in Tempo Reale",
+      "id": "strategia-tempo-reale",
+      "icona": "⚡",
+      "tr": {
+        "en": {
+          "nome": "Real-Time Strategy"
+        }
+      }
+    },
+    {
+      "nome": "Strategia a Turni",
+      "id": "strategia-a-turni",
+      "icona": "♟️",
+      "tr": {
+        "en": {
+          "nome": "Turn-Based Strategy"
+        }
+      }
+    },
+    {
+      "nome": "Gestionali & Citta",
+      "id": "gestionali",
+      "icona": "🏙️",
+      "tr": {
+        "en": {
+          "nome": "Tycoon & City Building"
+        }
+      }
+    },
+    {
+      "nome": "Corse",
+      "id": "corse",
+      "icona": "🏎️",
+      "tr": {
+        "en": {
+          "nome": "Racing"
+        }
+      }
+    },
+    {
+      "nome": "Puzzle & Giochi da Tavolo",
+      "id": "puzzle",
+      "icona": "🧩",
+      "tr": {
+        "en": {
+          "nome": "Puzzle & Board Games"
+        }
+      }
+    },
+    {
+      "nome": "Sandbox & Costruzione",
+      "id": "sandbox",
+      "icona": "⛏️",
+      "tr": {
+        "en": {
+          "nome": "Sandbox & Building"
+        }
+      }
+    },
+    {
+      "nome": "Sport",
+      "id": "sport",
+      "icona": "⚽",
+      "tr": {
+        "en": {
+          "nome": "Sports"
+        }
+      }
+    },
+    {
+      "nome": "Tower Defense",
+      "id": "difesa",
+      "icona": "🏰",
+      "tr": {
+        "en": {
+          "nome": "Tower Defense"
+        }
+      }
+    },
+    {
+      "nome": "Classici Rinati",
+      "id": "classici-rinati",
+      "icona": "🕹️",
+      "tr": {
+        "en": {
+          "nome": "Reborn Classics"
+        }
+      }
+    },
+    {
+      "nome": "Giochi nel Browser",
+      "id": "browser",
+      "icona": "🌍",
+      "tr": {
+        "en": {
+          "nome": "Browser Games"
+        }
+      }
+    },
+    {
+      "nome": "Giochi Mobile",
+      "id": "mobile",
+      "icona": "📱",
+      "tr": {
+        "en": {
+          "nome": "Mobile Games"
         }
       }
     }
   ],
-  "prodotti": [
-    {
-      "tipo": "digitale",
-      "id": "prodotto-esempio",
-      "nome": "Prodotto di esempio",
-      "categoria": "esempio",
-      "prezzo_centesimi": 1000,
-      "descrizione": "Descrizione breve del prodotto di esempio.",
-      "descrizione_completa": "Descrizione completa del prodotto.\nOgni riga diventa un paragrafo.",
-      "immagine": "",
-      "icona": "🛍️",
-      "visibile": true,
-      "tr": {
-        "en": {
-          "nome": "Example product",
-          "descrizione": "Short description of the example product.",
-          "descrizione_completa": "Full description of the product.\nEach line becomes a paragraph."
-        }
-      }
-    }
-  ]
+  "prodotti": []
 }
