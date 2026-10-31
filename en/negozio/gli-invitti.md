@@ -8,5 +8,4 @@ lang: en
 locale: en
 ref: shop-prod-gli-invitti
 tr: tradotto
-tr_hash: 45h
 ---

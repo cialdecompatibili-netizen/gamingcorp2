@@ -8,5 +8,4 @@ lang: en
 locale: en
 ref: shop-prod-cubi-classici
 tr: tradotto
-tr_hash: 45h
 ---

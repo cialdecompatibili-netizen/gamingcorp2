@@ -951,6 +951,576 @@
           "descrizione_completa": "Open source engine to play a celebrated open-world RPG.\nReference open source project: OpenMW (https://github.com/OpenMW/openmw).\nTest page: name and texts are fictional, rights remain with the original authors."
         }
       }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ritmo-infinito",
+      "nome": "Ritmo Infinito",
+      "categoria": "azione",
+      "prezzo_centesimi": 0,
+      "descrizione": "Gioco di ritmo: clicca a tempo con la musica, con classifiche e modalita online.",
+      "descrizione_completa": "Gioco di ritmo: clicca a tempo con la musica, con classifiche e modalita online.\nProgetto open source di riferimento: osu! (https://github.com/ppy/osu).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/ritmo-infinito.webp",
+      "icona": "⚔️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Endless Rhythm",
+          "descrizione": "Rhythm game: click in time with the music, with leaderboards and online modes.",
+          "descrizione_completa": "Rhythm game: click in time with the music, with leaderboards and online modes.\nReference open source project: osu! (https://github.com/ppy/osu).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "serpente-degli-eroi",
+      "nome": "Serpente degli Eroi",
+      "categoria": "azione",
+      "prezzo_centesimi": 0,
+      "descrizione": "Arcade in cui guidi un serpente di eroi da comporre e potenziare a ogni partita.",
+      "descrizione_completa": "Arcade in cui guidi un serpente di eroi da comporre e potenziare a ogni partita.\nProgetto open source di riferimento: SNKRX (https://github.com/a327ex/SNKRX).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/serpente-degli-eroi.webp",
+      "icona": "⚔️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Hero Serpent",
+          "descrizione": "Arcade game where you steer a snake of heroes you build and upgrade every run.",
+          "descrizione_completa": "Arcade game where you steer a snake of heroes you build and upgrade every run.\nReference open source project: SNKRX (https://github.com/a327ex/SNKRX).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "rotta-tra-le-stelle",
+      "nome": "Rotta tra le Stelle",
+      "categoria": "avventura",
+      "prezzo_centesimi": 0,
+      "descrizione": "Esplorazione spaziale, commercio e combattimenti con la tua astronave.",
+      "descrizione_completa": "Esplorazione spaziale, commercio e combattimenti con la tua astronave.\nProgetto open source di riferimento: Endless Sky (https://github.com/endless-sky/endless-sky).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/rotta-tra-le-stelle.webp",
+      "icona": "🗺️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Course Among the Stars",
+          "descrizione": "Space exploration, trading and combat with your own starship.",
+          "descrizione_completa": "Space exploration, trading and combat with your own starship.\nReference open source project: Endless Sky (https://github.com/endless-sky/endless-sky).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "artigiano-di-cubi",
+      "nome": "Artigiano di Cubi",
+      "categoria": "sandbox",
+      "prezzo_centesimi": 0,
+      "descrizione": "Gioco a blocchi minimalista in C con multiplayer.",
+      "descrizione_completa": "Gioco a blocchi minimalista in C con multiplayer.\nProgetto open source di riferimento: Craft (https://github.com/fogleman/Craft).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/artigiano-di-cubi.webp",
+      "icona": "⛏️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Cube Crafter",
+          "descrizione": "Minimalist block game written in C with multiplayer.",
+          "descrizione_completa": "Minimalist block game written in C with multiplayer.\nReference open source project: Craft (https://github.com/fogleman/Craft).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cubi-senza-confini",
+      "nome": "Cubi Senza Confini",
+      "categoria": "sandbox",
+      "prezzo_centesimi": 0,
+      "descrizione": "Sandbox a blocchi con grande distanza di visuale e mondi generati.",
+      "descrizione_completa": "Sandbox a blocchi con grande distanza di visuale e mondi generati.\nProgetto open source di riferimento: Cubyz (https://github.com/PixelGuys/Cubyz).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/cubi-senza-confini.webp",
+      "icona": "⛏️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Boundless Cubes",
+          "descrizione": "Block sandbox with long view distance and generated worlds.",
+          "descrizione_completa": "Block sandbox with long view distance and generated worlds.\nReference open source project: Cubyz (https://github.com/PixelGuys/Cubyz).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cripta-eterna",
+      "nome": "Cripta Eterna",
+      "categoria": "gdr",
+      "prezzo_centesimi": 0,
+      "descrizione": "Uno dei roguelike a turni piu storici: dungeon casuali e oggetti a non finire.",
+      "descrizione_completa": "Uno dei roguelike a turni piu storici: dungeon casuali e oggetti a non finire.\nProgetto open source di riferimento: NetHack (https://github.com/NetHack/NetHack).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/cripta-eterna.webp",
+      "icona": "🐉",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Eternal Crypt",
+          "descrizione": "One of the most historic turn-based roguelikes: random dungeons and endless items.",
+          "descrizione_completa": "One of the most historic turn-based roguelikes: random dungeons and endless items.\nReference open source project: NetHack (https://github.com/NetHack/NetHack).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "discesa-minimalista",
+      "nome": "Discesa Minimalista",
+      "categoria": "gdr",
+      "prezzo_centesimi": 0,
+      "descrizione": "Roguelike a turni essenziale e curato, versione della community.",
+      "descrizione_completa": "Roguelike a turni essenziale e curato, versione della community.\nProgetto open source di riferimento: Brogue CE (https://github.com/tmewett/BrogueCE).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/discesa-minimalista.webp",
+      "icona": "🐉",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Minimalist Descent",
+          "descrizione": "Lean, polished turn-based roguelike, community edition.",
+          "descrizione_completa": "Lean, polished turn-based roguelike, community edition.\nReference open source project: Brogue CE (https://github.com/tmewett/BrogueCE).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "tana-dei-draghi",
+      "nome": "Tana dei Draghi",
+      "categoria": "gdr",
+      "prezzo_centesimi": 0,
+      "descrizione": "Roguelike per giocatore singolo: esplora dungeon sempre piu profondi.",
+      "descrizione_completa": "Roguelike per giocatore singolo: esplora dungeon sempre piu profondi.\nProgetto open source di riferimento: Angband (https://github.com/angband/angband).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/tana-dei-draghi.webp",
+      "icona": "🐉",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Dragon's Den",
+          "descrizione": "Single-player roguelike: explore ever deeper dungeons.",
+          "descrizione_completa": "Single-player roguelike: explore ever deeper dungeons.\nReference open source project: Angband (https://github.com/angband/angband).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ballata-dei-cavalieri",
+      "nome": "Ballata dei Cavalieri",
+      "categoria": "gdr",
+      "prezzo_centesimi": 0,
+      "descrizione": "GDR a turni open source per imparare a creare combattimenti.",
+      "descrizione_completa": "GDR a turni open source per imparare a creare combattimenti.\nProgetto open source di riferimento: Godot Open RPG (https://github.com/gdquest-demos/godot-open-rpg).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/ballata-dei-cavalieri.webp",
+      "icona": "🐉",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Knights' Ballad",
+          "descrizione": "Open source turn-based RPG built to learn how to make battles.",
+          "descrizione_completa": "Open source turn-based RPG built to learn how to make battles.\nReference open source project: Godot Open RPG (https://github.com/gdquest-demos/godot-open-rpg).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "skyline-isometrico",
+      "nome": "Skyline Isometrico",
+      "categoria": "gestionali",
+      "prezzo_centesimi": 0,
+      "descrizione": "Costruttore di citta isometrica in JavaScript, gira nel browser.",
+      "descrizione_completa": "Costruttore di citta isometrica in JavaScript, gira nel browser.\nProgetto open source di riferimento: IsoCity (https://github.com/victorqribeiro/isocity).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/skyline-isometrico.webp",
+      "icona": "🏙️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Isometric Skyline",
+          "descrizione": "Isometric city builder in JavaScript that runs in the browser.",
+          "descrizione_completa": "Isometric city builder in JavaScript that runs in the browser.\nReference open source project: IsoCity (https://github.com/victorqribeiro/isocity).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "fondatori-di-citta",
+      "nome": "Fondatori di Citta",
+      "categoria": "gestionali",
+      "prezzo_centesimi": 0,
+      "descrizione": "Simulazione di costruzione di citta con grafica isometrica.",
+      "descrizione_completa": "Simulazione di costruzione di citta con grafica isometrica.\nProgetto open source di riferimento: Cytopia (https://github.com/CytopiaTeam/Cytopia).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/fondatori-di-citta.webp",
+      "icona": "🏙️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "City Founders",
+          "descrizione": "City-building simulation with isometric graphics.",
+          "descrizione_completa": "City-building simulation with isometric graphics.\nReference open source project: Cytopia (https://github.com/CytopiaTeam/Cytopia).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "metropoli-senza-griglia",
+      "nome": "Metropoli Senza Griglia",
+      "categoria": "gestionali",
+      "prezzo_centesimi": 0,
+      "descrizione": "City builder 3D con strade libere, senza griglia.",
+      "descrizione_completa": "City builder 3D con strade libere, senza griglia.\nProgetto open source di riferimento: Egregoria (https://github.com/Uriopass/Egregoria).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/metropoli-senza-griglia.webp",
+      "icona": "🏙️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Gridless Metropolis",
+          "descrizione": "3D city builder with free-form roads, no grid.",
+          "descrizione_completa": "3D city builder with free-form roads, no grid.\nReference open source project: Egregoria (https://github.com/Uriopass/Egregoria).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "corsa-sfrenata",
+      "nome": "Corsa Sfrenata",
+      "categoria": "corse",
+      "prezzo_centesimi": 0,
+      "descrizione": "Gioco di corse 3D open source che gira nel browser.",
+      "descrizione_completa": "Gioco di corse 3D open source che gira nel browser.\nProgetto open source di riferimento: Racing Game (https://github.com/pmndrs/racing-game).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/corsa-sfrenata.webp",
+      "icona": "🏎️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Wild Race",
+          "descrizione": "Open source 3D racing game that runs in the browser.",
+          "descrizione_completa": "Open source 3D racing game that runs in the browser.\nReference open source project: Racing Game (https://github.com/pmndrs/racing-game).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "corsa-antigravita",
+      "nome": "Corsa Antigravita",
+      "categoria": "corse",
+      "prezzo_centesimi": 0,
+      "descrizione": "Corse futuristiche HTML5 con veicoli antigravita.",
+      "descrizione_completa": "Corse futuristiche HTML5 con veicoli antigravita.\nProgetto open source di riferimento: HexGL (https://github.com/BKcore/HexGL).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/corsa-antigravita.webp",
+      "icona": "🏎️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Anti-Gravity Run",
+          "descrizione": "Futuristic HTML5 racing with anti-gravity vehicles.",
+          "descrizione_completa": "Futuristic HTML5 racing with anti-gravity vehicles.\nReference open source project: HexGL (https://github.com/BKcore/HexGL).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "arena-delle-bestie",
+      "nome": "Arena delle Bestie",
+      "categoria": "strategia-a-turni",
+      "prezzo_centesimi": 0,
+      "descrizione": "Strategia a turni multiplayer con creature da evocare e schierare.",
+      "descrizione_completa": "Strategia a turni multiplayer con creature da evocare e schierare.\nProgetto open source di riferimento: Ancient Beast (https://github.com/FreezingMoon/AncientBeast).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/arena-delle-bestie.webp",
+      "icona": "♟️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Beast Arena",
+          "descrizione": "Multiplayer turn-based strategy with creatures to summon and deploy.",
+          "descrizione_completa": "Multiplayer turn-based strategy with creatures to summon and deploy.\nReference open source project: Ancient Beast (https://github.com/FreezingMoon/AncientBeast).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "guerra-dei-continenti",
+      "nome": "Guerra dei Continenti",
+      "categoria": "strategia-a-turni",
+      "prezzo_centesimi": 0,
+      "descrizione": "Motore di strategia a turni e giochi da tavolo in stile guerra mondiale.",
+      "descrizione_completa": "Motore di strategia a turni e giochi da tavolo in stile guerra mondiale.\nProgetto open source di riferimento: TripleA (https://github.com/triplea-game/triplea).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/guerra-dei-continenti.webp",
+      "icona": "♟️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "War of Continents",
+          "descrizione": "Turn-based strategy and board-game engine in a world-war style.",
+          "descrizione_completa": "Turn-based strategy and board-game engine in a world-war style.\nReference open source project: TripleA (https://github.com/triplea-game/triplea).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "conquista-globale",
+      "nome": "Conquista Globale",
+      "categoria": "strategia-tempo-reale",
+      "prezzo_centesimi": 0,
+      "descrizione": "Strategia in tempo reale online nel browser: conquista territori.",
+      "descrizione_completa": "Strategia in tempo reale online nel browser: conquista territori.\nProgetto open source di riferimento: OpenFront (https://github.com/openfrontio/OpenFrontIO).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/conquista-globale.webp",
+      "icona": "⚡",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Global Conquest",
+          "descrizione": "Online real-time strategy in the browser: conquer territories.",
+          "descrizione_completa": "Online real-time strategy in the browser: conquer territories.\nReference open source project: OpenFront (https://github.com/openfrontio/OpenFrontIO).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "comandante-libero",
+      "nome": "Comandante Libero",
+      "categoria": "strategia-tempo-reale",
+      "prezzo_centesimi": 0,
+      "descrizione": "Gioco RTS open source realizzato con Godot 4.",
+      "descrizione_completa": "Gioco RTS open source realizzato con Godot 4.\nProgetto open source di riferimento: Godot Open RTS (https://github.com/lampe-games/godot-open-rts).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/comandante-libero.webp",
+      "icona": "⚡",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Free Commander",
+          "descrizione": "Open source RTS game made with Godot 4.",
+          "descrizione_completa": "Open source RTS game made with Godot 4.\nReference open source project: Godot Open RTS (https://github.com/lampe-games/godot-open-rts).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "alchimista-dei-cubi",
+      "nome": "Alchimista dei Cubi",
+      "categoria": "puzzle",
+      "prezzo_centesimi": 0,
+      "descrizione": "Puzzle ispirato alla programmazione funzionale.",
+      "descrizione_completa": "Puzzle ispirato alla programmazione funzionale.\nProgetto open source di riferimento: Cube Composer (https://github.com/sharkdp/cube-composer).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/alchimista-dei-cubi.webp",
+      "icona": "🧩",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Cube Alchemist",
+          "descrizione": "Puzzle game inspired by functional programming.",
+          "descrizione_completa": "Puzzle game inspired by functional programming.\nReference open source project: Cube Composer (https://github.com/sharkdp/cube-composer).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "guerriero-del-codice",
+      "nome": "Guerriero del Codice",
+      "categoria": "puzzle",
+      "prezzo_centesimi": 0,
+      "descrizione": "Impara a programmare guidando un guerriero in una torre.",
+      "descrizione_completa": "Impara a programmare guidando un guerriero in una torre.\nProgetto open source di riferimento: WarriorJS (https://github.com/olistic/warriorjs).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/guerriero-del-codice.webp",
+      "icona": "🧩",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Code Warrior",
+          "descrizione": "Learn to program by guiding a warrior up a tower.",
+          "descrizione_completa": "Learn to program by guiding a warrior up a tower.\nReference open source project: WarriorJS (https://github.com/olistic/warriorjs).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "torre-di-blocchi",
+      "nome": "Torre di Blocchi",
+      "categoria": "puzzle",
+      "prezzo_centesimi": 0,
+      "descrizione": "Tetris giocabile nel browser, costruito con React.",
+      "descrizione_completa": "Tetris giocabile nel browser, costruito con React.\nProgetto open source di riferimento: React Tetris (https://github.com/chvin/react-tetris).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/torre-di-blocchi.webp",
+      "icona": "🧩",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Block Tower",
+          "descrizione": "Tetris playable in the browser, built with React.",
+          "descrizione_completa": "Tetris playable in the browser, built with React.\nReference open source project: React Tetris (https://github.com/chvin/react-tetris).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "blocchi-in-duello",
+      "nome": "Blocchi in Duello",
+      "categoria": "puzzle",
+      "prezzo_centesimi": 0,
+      "descrizione": "Tetris veloce per due giocatori nel browser.",
+      "descrizione_completa": "Tetris veloce per due giocatori nel browser.\nProgetto open source di riferimento: Flatris (https://github.com/ovidiuch/flatris).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/blocchi-in-duello.webp",
+      "icona": "🧩",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Dueling Blocks",
+          "descrizione": "Fast-paced two-player Tetris in the browser.",
+          "descrizione_completa": "Fast-paced two-player Tetris in the browser.\nReference open source project: Flatris (https://github.com/ovidiuch/flatris).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "mazzo-dei-solitari",
+      "nome": "Mazzo dei Solitari",
+      "categoria": "puzzle",
+      "prezzo_centesimi": 0,
+      "descrizione": "Grande raccolta di solitari e giochi di carte.",
+      "descrizione_completa": "Grande raccolta di solitari e giochi di carte.\nProgetto open source di riferimento: PySolFC (https://github.com/shlomif/PySolFC).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/mazzo-dei-solitari.webp",
+      "icona": "🧩",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Solitaire Deck",
+          "descrizione": "Large collection of solitaire and card games.",
+          "descrizione_completa": "Large collection of solitaire and card games.\nReference open source project: PySolFC (https://github.com/shlomif/PySolFC).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "labirinto-famelico",
+      "nome": "Labirinto Famelico",
+      "categoria": "browser",
+      "prezzo_centesimi": 0,
+      "descrizione": "Il classico gioco del labirinto con fantasmi, in HTML5.",
+      "descrizione_completa": "Il classico gioco del labirinto con fantasmi, in HTML5.\nProgetto open source di riferimento: Pacman HTML5 (https://github.com/mumuy/pacman).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/labirinto-famelico.webp",
+      "icona": "🌍",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Hungry Maze",
+          "descrizione": "The classic maze-and-ghosts game, in HTML5.",
+          "descrizione_completa": "The classic maze-and-ghosts game, in HTML5.\nReference open source project: Pacman HTML5 (https://github.com/mumuy/pacman).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "mondi-biomi",
+      "nome": "Mondi Biomi",
+      "categoria": "online",
+      "prezzo_centesimi": 0,
+      "descrizione": "Sandbox MMO per il web con mondo condiviso.",
+      "descrizione_completa": "Sandbox MMO per il web con mondo condiviso.\nProgetto open source di riferimento: Biomes (https://github.com/ill-inc/biomes-game).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/mondi-biomi.webp",
+      "icona": "🌐",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Biome Worlds",
+          "descrizione": "Web sandbox MMO with a shared world.",
+          "descrizione_completa": "Web sandbox MMO with a shared world.\nReference open source project: Biomes (https://github.com/ill-inc/biomes-game).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "saga-del-regno-pixel",
+      "nome": "Saga del Regno Pixel",
+      "categoria": "online",
+      "prezzo_centesimi": 0,
+      "descrizione": "MMORPG 2D HTML5 open source.",
+      "descrizione_completa": "MMORPG 2D HTML5 open source.\nProgetto open source di riferimento: Kaetram (https://github.com/Kaetram/Kaetram-Open).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/saga-del-regno-pixel.webp",
+      "icona": "🌐",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Pixel Realm Saga",
+          "descrizione": "Open source 2D HTML5 MMORPG.",
+          "descrizione_completa": "Open source 2D HTML5 MMORPG.\nReference open source project: Kaetram (https://github.com/Kaetram/Kaetram-Open).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "cercatore-di-mine",
+      "nome": "Cercatore di Mine",
+      "categoria": "mobile",
+      "prezzo_centesimi": 0,
+      "descrizione": "Campo minato open source per Android.",
+      "descrizione_completa": "Campo minato open source per Android.\nProgetto open source di riferimento: Antimine (https://github.com/lucasnlm/antimine-android).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/cercatore-di-mine.webp",
+      "icona": "📱",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Mine Seeker",
+          "descrizione": "Open source minesweeper for Android.",
+          "descrizione_completa": "Open source minesweeper for Android.\nReference open source project: Antimine (https://github.com/lucasnlm/antimine-android).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "mattoni-sospesi",
+      "nome": "Mattoni Sospesi",
+      "categoria": "mobile",
+      "prezzo_centesimi": 0,
+      "descrizione": "Tetris per Android costruito con Jetpack Compose.",
+      "descrizione_completa": "Tetris per Android costruito con Jetpack Compose.\nProgetto open source di riferimento: Compose Tetris (https://github.com/vitaviva/compose-tetris).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/mattoni-sospesi.webp",
+      "icona": "📱",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Hanging Bricks",
+          "descrizione": "Android Tetris built with Jetpack Compose.",
+          "descrizione_completa": "Android Tetris built with Jetpack Compose.\nReference open source project: Compose Tetris (https://github.com/vitaviva/compose-tetris).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "grotta-dei-ricordi",
+      "nome": "Grotta dei Ricordi",
+      "categoria": "classici-rinati",
+      "prezzo_centesimi": 0,
+      "descrizione": "Rifacimento fedele del motore di un celebre platform freeware.",
+      "descrizione_completa": "Rifacimento fedele del motore di un celebre platform freeware.\nProgetto open source di riferimento: doukutsu-rs (https://github.com/doukutsu-rs/doukutsu-rs).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/grotta-dei-ricordi.webp",
+      "icona": "🕹️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Cave of Memories",
+          "descrizione": "Faithful remake of the engine of a famed freeware platformer.",
+          "descrizione_completa": "Faithful remake of the engine of a famed freeware platformer.\nReference open source project: doukutsu-rs (https://github.com/doukutsu-rs/doukutsu-rs).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "baluardo-dellimpero",
+      "nome": "Baluardo dell'Impero",
+      "categoria": "difesa",
+      "prezzo_centesimi": 0,
+      "descrizione": "Tower defense in Unity costruito con un framework open source.",
+      "descrizione_completa": "Tower defense in Unity costruito con un framework open source.\nProgetto open source di riferimento: TowerDefense GameFramework Demo (https://github.com/DrFlower/TowerDefense-GameFramework-Demo).\nPagina di prova: nome e testi sono di fantasia, i diritti restano agli autori originali.",
+      "immagine": "assets/images/prodotti/baluardo-dellimpero.webp",
+      "icona": "🏰",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Empire Bulwark",
+          "descrizione": "Tower defense in Unity built with an open source framework.",
+          "descrizione_completa": "Tower defense in Unity built with an open source framework.\nReference open source project: TowerDefense GameFramework Demo (https://github.com/DrFlower/TowerDefense-GameFramework-Demo).\nTest page: name and texts are fictional, rights remain with the original authors."
+        }
+      }
     }
   ]
 }

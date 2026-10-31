@@ -8,5 +8,4 @@ lang: en
 locale: en
 ref: shop-prod-fabbrica-fortezza
 tr: tradotto
-tr_hash: 45h
 ---

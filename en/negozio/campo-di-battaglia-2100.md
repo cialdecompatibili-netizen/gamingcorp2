@@ -8,5 +8,4 @@ lang: en
 locale: en
 ref: shop-prod-campo-di-battaglia-2100
 tr: tradotto
-tr_hash: 45h
 ---

@@ -8,5 +8,4 @@ lang: en
 locale: en
 ref: shop-prod-fronte-di-ferro
 tr: tradotto
-tr_hash: 45h
 ---

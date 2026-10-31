@@ -8,5 +8,4 @@ lang: en
 locale: en
 ref: shop-prod-cronache-riaperte
 tr: tradotto
-tr_hash: 45h
 ---

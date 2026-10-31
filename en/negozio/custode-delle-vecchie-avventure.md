@@ -8,5 +8,4 @@ lang: en
 locale: en
 ref: shop-prod-custode-delle-vecchie-avventure
 tr: tradotto
-tr_hash: 45h
 ---

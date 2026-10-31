@@ -8,5 +8,4 @@ lang: en
 locale: en
 ref: shop-prod-mondo-dei-blocchi-vivi
 tr: tradotto
-tr_hash: 45h
 ---

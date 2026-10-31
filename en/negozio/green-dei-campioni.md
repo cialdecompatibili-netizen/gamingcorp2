@@ -8,5 +8,4 @@ lang: en
 locale: en
 ref: shop-prod-green-dei-campioni
 tr: tradotto
-tr_hash: 45h
 ---
