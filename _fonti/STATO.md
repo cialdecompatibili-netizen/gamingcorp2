@@ -52,3 +52,7 @@ Scelti progetti aperti. Esclusi anche Frameworks/Engines, Chat bots e Maps/Hacks
 ## Note
 - Memoria di Claude bloccata in questa chat perche si sono usati connettori: nulla salvato li. Questo file e il promemoria.
 - Limite messaggi gratuiti Claude: ricaricati il 1 nov alle 01:50 (dal log della chat precedente).
+
+## Aggiornamento sera (31/10/2026)
+- Giochi da 41 a 71 (commit b9f200d): altre repo gaming con molte stelle, nomi di fantasia, screenshot veri dove possibile (script giochi3.py + costruisci_prodotti.py in claudetemp\giochi).
+- Ora Tower Defense ha 2 giochi e Mobile 4. Restano da fare: foto categorie, controllo grafico, segnaposto, PageSpeed.
